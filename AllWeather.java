@@ -41,6 +41,14 @@ public class AllWeather {
 
         weatherData = "Cloudy";
 
+      } else if (weatherCondition == 3) {
+
+        weatherData = "Stormy";
+
+      } else if (weatherCondition == 4) {
+
+        weatherData = "Snowy";
+        
       }
 
     }
