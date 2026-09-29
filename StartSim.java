@@ -1,0 +1,77 @@
+public class StartSim {
+    public static void startSim(String[] args) throws InterruptedException {
+
+        System.out.println("Starting simulation.\n");
+        System.out.print("|#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#");
+        Thread.sleep(500);
+        System.out.print("#|\n");
+
+
+    }
+}
